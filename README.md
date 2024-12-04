@@ -2,4 +2,4 @@ I am taking a Bachelor's Degree in Computer Science at University of Nueva Cacer
   
 I'm currently working on [Stormchaser](https://github.com/TreacherousDev/Stormchaser), a typhoon animation engine built in pygame.
 
-You can contact me at treacherousdev@gmail.com for inquiries.
+You can contact me at treacherousdev (at) gmail dotcom for inquiries.
